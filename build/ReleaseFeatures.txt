@@ -1,0 +1,7 @@
+Release features included in the release.
+
+07-Jul-2011 Release v0.1
+1. Two tabs added (Log Diagnostics and Log Reports)
+2. Two buttons added in Log Diagnostics tab
+3. "Locate the Log" feature is added to locate the log file in the file system and process the file in memory for statistics
+  
